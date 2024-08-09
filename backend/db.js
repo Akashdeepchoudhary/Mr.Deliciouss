@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-RAZORPAY_API_KEY= "rzp_test_WzXiPsEdUINLWN";
-RAZORPAY_APT_SECRET="0BroyffuH6bL9hissvxc5ZaD";
+RAZORPAY_API_KEY= "rzp_test_sqMXARHckOys83";
+RAZORPAY_APT_SECRET="oyUrZhUgMZCLnEI6gO98jfVi";
 const mongoURI = "mongodb://localhost:27017/MrDelicious";
 
 module.exports = async function () {
